@@ -5,8 +5,8 @@ SilverTick - in BackboneJS and Parse
 
 
 Directions :
-- [ ] 1. Setup your Account
-- [ ] 2. Log In
-- [ ] 3. Start Planning!
+- [x] 1. Setup your Account
+- [x] 2. Log In
+- [x] 3. Start Planning!
 
 ## N' There's Nuthin' To It!
